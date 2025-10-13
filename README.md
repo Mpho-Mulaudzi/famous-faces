@@ -6,7 +6,6 @@ A new Flutter project.
 
 
 samples, guidance on mobile development, and a full API reference.
-![Image](https://github.com/user-attachments/assets/4a4d8aed-e9b5-4eb5-84e5-e8f74aaef91c)
 
 !([Screenshot_20251013_191931_com example famous_faces](https://github.com/user-attachments/assets/e5b13feb-07c4-477a-b5aa-c188733b184c)
 
