@@ -7,8 +7,8 @@ A new Flutter project.
 
 samples, guidance on mobile development, and a full API reference.
 
-<img src="!([Screenshot_20251013_191931_com example famous_faces](https://github.com/user-attachments/assets/e5b13feb-07c4-477a-b5aa-c188733b184c)
-" width="400" alt="Screenshot">
+!([Screenshot_20251013_191931_com example famous_faces](https://github.com/user-attachments/assets/e5b13feb-07c4-477a-b5aa-c188733b184c)
+
 
 
 
