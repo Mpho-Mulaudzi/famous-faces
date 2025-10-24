@@ -3,7 +3,12 @@
     "personName": "Charlie Chaplin",
     "question": "Which movie did Charlie Chaplin star in?",
     "imagePath": "assets/images/actors/Charlie_Chaplin.jpg",
-    "options": ["Modern Times", "Casablanca", "Gone with the Wind", "Citizen Kane"],
+    "options": [
+      "Modern Times",
+      "Casablanca",
+      "Gone with the Wind",
+      "Citizen Kane"
+    ],
     "correctIndex": 0,
     "fact": "Released in 1936, *Modern Times* is one of Chaplin’s most celebrated silent comedies, satirizing industrial society.",
     "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait.jpg)"
@@ -12,7 +17,12 @@
     "personName": "Audrey Hepburn",
     "question": "Which film made Audrey Hepburn an international star?",
     "imagePath": "assets/images/actors/Audrey_Hepburn.jpg",
-    "options": ["The Sound of Music", "Breakfast at Tiffany’s", "My Fair Lady","Roman Holiday"],
+    "options": [
+      "The Sound of Music",
+      "Breakfast at Tiffany’s",
+      "My Fair Lady",
+      "Roman Holiday"
+    ],
     "correctIndex": 3,
     "fact": "*Roman Holiday* (1953) won Hepburn the Academy Award for Best Actress and launched her Hollywood career.",
     "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Audrey_Hepburn_1956.jpg)"
@@ -21,7 +31,12 @@
     "personName": "Marilyn Monroe",
     "question": "Which comedy featured Marilyn Monroe singing “Diamonds Are a Girl’s Best Friend”?",
     "imagePath": "assets/images/actors/Marilyn_Monroe.jpg",
-    "options": ["Some Like It Hot", "Gentlemen Prefer Blondes", "Niagara", "The Seven Year Itch"],
+    "options": [
+      "Some Like It Hot",
+      "Gentlemen Prefer Blondes",
+      "Niagara",
+      "The Seven Year Itch"
+    ],
     "correctIndex": 1,
     "fact": "*Gentlemen Prefer Blondes* (1953) showcased Monroe’s trademark charm and musical performance.",
     "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Marilyn_Monroe_1953.jpg)"
@@ -29,8 +44,13 @@
   {
     "personName": "Clark Gable",
     "question": "In which film did this actor say, “Frankly, my dear, I don’t give a damn”?",
-    "imagePath": "assets/images/actors/Clark_Gable.jpg",
-    "options": ["Gone with the Wind", "It Happened One Night", "Mutiny on the Bounty", "Red Dust"],
+    "imagePath": "assets/images/actors/Clark_Gable.jpeg",
+    "options": [
+      "Gone with the Wind",
+      "It Happened One Night",
+      "Mutiny on the Bounty",
+      "Red Dust"
+    ],
     "correctIndex": 0,
     "fact": "Gable’s role as Rhett Butler in *Gone with the Wind* (1939) remains one of the greatest performances in film history.",
     "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Clark_Gable_1940s.jpg)"
@@ -39,7 +59,12 @@
     "personName": "Ingrid Bergman",
     "question": "Which classic film starred Ingrid Bergman and Humphrey Bogart?",
     "imagePath": "assets/images/actors/Ingrid_Bergman.jpg",
-    "options": ["Notorious", "Gaslight", "Casablanca", "Joan of Arc"],
+    "options": [
+      "Notorious",
+      "Gaslight",
+      "Casablanca",
+      "Joan of Arc"
+    ],
     "correctIndex": 2,
     "fact": "*Casablanca* (1942) earned Bergman worldwide fame and an enduring legacy in cinema.",
     "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ingrid_Bergman_1944.jpg)"
@@ -52,7 +77,8 @@
       "Training Day",
       "Malcolm X",
       "Glory",
-      "Fences"],
+      "Fences"
+    ],
     "correctIndex": 0,
     "fact": "Washington won the Academy Award for Best Actor for his role as Detective Alonzo Harris in *Training Day (2001)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Denzel_Washington_2016.jpg)"
@@ -65,7 +91,8 @@
       "Most Oscar wins",
       "Most Academy Award nominations for an actor",
       "Oldest Oscar winner",
-      "First female director Oscar"],
+      "First female director Oscar"
+    ],
     "correctIndex": 1,
     "fact": "Streep has been nominated for the Academy Award over 20 times, more than any other actor.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Meryl_Streep_2016.jpg)"
@@ -78,7 +105,8 @@
       "Romantic Drama",
       "Voice acting",
       "Comedy and Stunts",
-      "Method acting"],
+      "Method acting"
+    ],
     "correctIndex": 2,
     "fact": "Chan blends martial arts with slapstick comedy and does his own stunts in films like *Rush Hour* and *Police Story*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jackie_Chan_2012.jpg)"
@@ -87,7 +115,12 @@
     "personName": "Cate Blanchett",
     "question": "Cate Blanchett has won Oscars for portraying which famous historical figure?",
     "imagePath": "assets/images/actors/Cate_Blanchett.jpg",
-    "options": ["Katharine Hepburn", "Queen Elizabeth I", "Princess Diana", "Cleopatra"],
+    "options": [
+      "Katharine Hepburn",
+      "Queen Elizabeth I",
+      "Princess Diana",
+      "Cleopatra"
+    ],
     "correctIndex": 0,
     "fact": "She won the Oscar for *The Aviator (2004)* as Katharine Hepburn and another for *Blue Jasmine (2013)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cate_Blanchett_2018.jpg)"
@@ -100,7 +133,8 @@
       "Inception",
       "Titanic",
       "The Wolf of Wall Street",
-      "The Revenant"],
+      "The Revenant"
+    ],
     "correctIndex": 3,
     "fact": "DiCaprio won his first Oscar for Best Actor in *The Revenant (2015)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_2016.jpg)"
@@ -111,8 +145,10 @@
     "imagePath": "assets/images/actors/lupita_nyongo.jpg",
     "options": [
       "12 Years a Slave",
-      "Us", "Black Panther",
-      "Queen of Katwe"],
+      "Us",
+      "Black Panther",
+      "Queen of Katwe"
+    ],
     "correctIndex": 0,
     "fact": "Lupita won the Oscar for Best Supporting Actress for her performance in *12 Years a Slave (2013)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lupita_Nyongo_Cannes_2019.jpg)"
@@ -125,7 +161,8 @@
       "Bollywood Boss",
       "The Emperor",
       "King Khan",
-      "Prince of India"],
+      "Prince of India"
+    ],
     "correctIndex": 2,
     "fact": "Known as ‘King Khan,’ he has appeared in over 80 Bollywood films and is one of the world’s most popular actors.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Shah_Rukh_Khan_2018.jpg)"
@@ -138,7 +175,8 @@
       "Big and Cast Away",
       "Philadelphia and Forrest Gump",
       "Saving Private Ryan and Apollo 13",
-      "Toy Story and The Terminal"],
+      "Toy Story and The Terminal"
+    ],
     "correctIndex": 1,
     "fact": "Hanks won Best Actor for *Philadelphia (1993)* and *Forrest Gump (1994)* back‑to‑back.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tom_Hanks_2016.jpg)"
@@ -151,7 +189,8 @@
       "Direct a Marvel movie",
       "Host the Oscars",
       "Win the Triple Crown of Acting",
-      "Win Best Actress twice"],
+      "Win Best Actress twice"
+    ],
     "correctIndex": 2,
     "fact": "She has won an Oscar, Emmy, and Tony Award — known as acting’s Triple Crown.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Viola_Davis_2019.jpg)"
@@ -164,7 +203,8 @@
       "Million Dollar Baby",
       "Shawshank Redemption",
       "Driving Miss Daisy",
-      "Lucy"],
+      "Lucy"
+    ],
     "correctIndex": 0,
     "fact": "Freeman won Best Supporting Actor for *Million Dollar Baby (2004)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Morgan_Freeman_Deauville_2018.jpg)"
@@ -177,7 +217,8 @@
       "Black Swan",
       "V for Vendetta",
       "Jackie",
-      "Closer"],
+      "Closer"
+    ],
     "correctIndex": 0,
     "fact": "She won Best Actress for her intense performance as a ballerina in *Black Swan (2010)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Natalie_Portman_Cannes_2015.jpg)"
@@ -204,7 +245,8 @@
       "Captain Marvel",
       "Black Widow",
       "Gamora",
-      "Wanda Maximoff"],
+      "Wanda Maximoff"
+    ],
     "correctIndex": 1,
     "fact": "Johansson played Natasha Romanoff / Black Widow in the Marvel Cinematic Universe.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_2019.jpg)"
@@ -217,7 +259,8 @@
       "Nick Fury",
       "Falcon",
       "Black Panther",
-      "Blade"],
+      "Blade"
+    ],
     "correctIndex": 2,
     "fact": "Boseman played King T’Challa / Black Panther in the Marvel films and was honored posthumously for his impact.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Chadwick_Boseman_2017.jpg)"
@@ -226,7 +269,12 @@
     "personName": "Audrey Hepburn",
     "question": "Which classic film made Audrey Hepburn a style icon?",
     "imagePath": "assets/images/actors/Audrey_Hepburn.jpg",
-    "options": ["Breakfast at Tiffany’s", "Casablanca", "Gone with the Wind", "Roman Holiday"],
+    "options": [
+      "Breakfast at Tiffany’s",
+      "Casablanca",
+      "Gone with the Wind",
+      "Roman Holiday"
+    ],
     "correctIndex": 0,
     "fact": "Hepburn’s elegance in *Breakfast at Tiffany’s (1961)* made her a fashion and cinema legend.",
     "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Audrey_Hepburn_Childrens_Fund.jpg)"
@@ -239,7 +287,8 @@
       "Stranger Things and Narcos",
       "Breaking Bad and House of Cards",
       "The Mandalorian and The Last of Us",
-      "Loki and Obi‑Wan Kenobi"],
+      "Loki and Obi‑Wan Kenobi"
+    ],
     "correctIndex": 2,
     "fact": "Pascal leads two global‑hit series: as Din Djarin in *The Mandalorian* and Joel in *The Last of Us*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pedro_Pascal_2022.jpg)"
@@ -248,7 +297,12 @@
     "personName": "Penélope Cruz",
     "question": "Penélope Cruz won an Oscar for which film?",
     "imagePath": "assets/images/actors/Penélope_Cruz.jpg",
-    "options": ["Vicky Cristina Barcelona", "Volver", "Pirates of the Caribbean 4", "Nine"],
+    "options": [
+      "Vicky Cristina Barcelona",
+      "Volver",
+      "Pirates of the Caribbean 4",
+      "Nine"
+    ],
     "correctIndex": 0,
     "fact": "Cruz won the Oscar for Best Supporting Actress for *Vicky Cristina Barcelona (2008)*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pen%C3%A9lope_Cruz_Cannes_2019.jpg)"
@@ -257,7 +311,12 @@
     "personName": "Christian Bale",
     "question": "Christian Bale is known for his physical transformations in roles such as which character?",
     "imagePath": "assets/images/actors/Christian_Bale.jpg",
-    "options": ["Batman in The Dark Knight Trilogy", "James Bond", "Wolverine", "Superman"],
+    "options": [
+      "Batman in The Dark Knight Trilogy",
+      "James Bond",
+      "Wolverine",
+      "Superman"
+    ],
     "correctIndex": 0,
     "fact": "Bale famously played Bruce Wayne / Batman in Christopher Nolan’s *Dark Knight Trilogy* and won an Oscar for *The Fighter*.",
     "licenseInfo": "CC0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Christian_Bale_2019.jpg)"

@@ -12,7 +12,7 @@ class GameProgressService {
 
 
   static const int maxQuestions = 10;
-  static const Duration cooldown = Duration(minutes: 0);
+  static const Duration cooldown = Duration(minutes: 5);
 
   /// Returns true if user can continue playing now
   static Future<bool> canPlayNow() async {

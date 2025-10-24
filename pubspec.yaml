@@ -67,18 +67,16 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/scientists/
     - assets/images/actors/
+    - assets/images/scientists/
     - assets/images/politicians/
+    - assets/images/sports/
     - assets/images/artists/
     - assets/sounds/drop.mp3
     - assets/sounds/theme.mp3
     - assets/sounds/correct.mp3
     - assets/sounds/wrong.mp3
-    - assets/questions/scientists.json
-    - assets/questions/actors.json
-    - assets/questions/artists.json
-    - assets/questions/politicians.json
+    - assets/questions/
 
 
 
