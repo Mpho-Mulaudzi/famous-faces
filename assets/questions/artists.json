@@ -1,0 +1,147 @@
+[
+  {
+    "personName": "Leonardo da Vinci",
+    "question": "Which artwork was painted by Leonardo da Vinci?",
+    "imagePath": "assets/images/artists/Leonardo_da_Vinci.jpg",
+    "options": [ "Starry Night", "The Last Supper","The Persistence of Memory", "The Birth of Venus"],
+    "correctIndex": 1,
+    "fact": "*The Last Supper* (1495–1498) captures Jesus and his disciples during their final meal and is a masterpiece of Renaissance art.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_presumed_self-portrait.jpg)"
+  },
+  {
+    "personName": "Vincent van Gogh",
+    "question": "Which of these works was created by Vincent van Gogh?",
+    "imagePath": "assets/images/artists/Vincent_van_Gogh.jpg",
+    "options": ["The Starry Night", "The Scream", "Water Lilies", "Guernica"],
+    "correctIndex": 0,
+    "fact": "Painted in 1889 while in a sanatorium, *The Starry Night* captures van Gogh’s distinct emotional style and vivid color palette.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-portrait_1889_-_Frame.jpg)"
+  },
+  {
+    "personName": "Pablo Picasso",
+    "question": "Which famous painting was by Pablo Picasso?",
+    "imagePath": "assets/images/artists/Pablo_picasso.jpg",
+    "options": [ "The Kiss", "The Dance", "Guernica","The Sleeping Gypsy"],
+    "correctIndex": 2,
+    "fact": "*Guernica* (1937) is Picasso’s powerful protest against the bombing of a Basque town in the Spanish Civil War.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg)"
+  },
+  {
+    "personName": "Claude Monet",
+    "question": "Which series of paintings is associated with Claude Monet?",
+    "imagePath": "assets/images/artists/Claude_Monet.jpg",
+    "options": ["Campbell’s Soup Cans", "Impression Sunrise", "Girl with a Pearl Earring","Water Lilies"],
+    "correctIndex": 3,
+    "fact": "Monet’s *Water Lilies* series (over 200 paintings) depicts his garden in Giverny and defines Impressionism.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Claude_Monet_1899_Nadar_crop.jpg)"
+  },
+  {
+    "personName": "Frida Kahlo",
+    "question": "Which self‑portrait was painted by Frida Kahlo?",
+    "imagePath": "assets/images/artists/Frida_Kahlo.jpg",
+    "options": ["Sunflowers", "The Weeping Woman", "The Two Fridas","Girl Before a Mirror"],
+    "correctIndex": 2,
+    "fact": "*The Two Fridas* (1939) shows the artist’s identity struggles and her Mexican and European heritage.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Frida_Kahlo_1932.jpg)"
+  },
+  {
+    "personName": "Michelangelo",
+    "question": "Which famous sculpture was created by Michelangelo?",
+    "imagePath": "assets/images/artists/Michelangelo.jpg",
+    "options": [ "Venus de Milo", "The Thinker","David ","Laocoön"],
+    "correctIndex": 2,
+    "fact": "Michelangelo sculpted *David* between 1501–1504, a masterpiece of Renaissance sculpture.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Michelangelo_di_Lodovico_Buonarroti_Simoni.jpg)"
+  },
+  {
+    "personName": "Rembrandt",
+    "question": "Which artwork is attributed to Rembrandt?",
+    "imagePath": "assets/images/artists/Rembrandt.jpg",
+    "options": ["Liberty Leading the People","The Night Watch", "American Gothic", "The Kiss"],
+    "correctIndex": 1,
+    "fact": "*The Night Watch* (1642) is one of Rembrandt’s most famous paintings, celebrated for its dramatic use of light and shadow.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn.jpg)"
+  },
+  {
+    "personName": "Georgia O’Keeffe",
+    "question": "Georgia O’Keeffe is best known for paintings of what?",
+    "imagePath": "assets/images/artists/Georgia_OKeeffe.jpg",
+    "options": ["Flowers and Southwestern landscapes", "Abstract geometric shapes", "Historical portraits", "Cubist cityscapes"],
+    "correctIndex": 0,
+    "fact": "O’Keeffe’s large-scale flower paintings and New Mexico landscapes made her a major figure in American modernism.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Georgia_OKeeffe_1937.jpg)"
+  },
+  {
+    "personName": "Jackson Pollock",
+    "question": "Jackson Pollock is famous for which painting style?",
+    "imagePath": "assets/images/artists/Jackson_Pollock.png",
+    "options": [ "Surrealism","Jackson Pollock", "Baroque", "Pointillism"],
+    "correctIndex": 1,
+    "fact": "Pollock pioneered the drip painting technique, creating dynamic abstract compositions in the mid-20th century.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jackson_Pollock_1949.jpg)"
+  },
+
+  {
+    "personName": "Artemisia Gentileschi",
+    "question": "Which painting was by Artemisia Gentileschi?",
+    "imagePath": "assets/images/artists/Artemisia_Gentileschi.jpg",
+    "options": ["Judith Slaying Holofernes", "Girl with a Pearl Earring", "The Swing", "Las Meninas"],
+    "correctIndex": 0,
+    "fact": "One of the few female Baroque painters, Gentileschi’s ‘Judith Slaying Holofernes’ (1620) shows heroic female strength.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Self-Portrait_as_the_Allegory_of_Painting.jpg)"
+  },
+  {
+    "personName": "Diego Velázquez",
+    "question": "Which painting is Velázquez famous for?",
+    "imagePath": "assets/images/artists/Diego_Velazquez.jpg",
+    "options": ["The Swing", "The Starry Night", "Las Meninas","The Scream"],
+    "correctIndex": 2,
+    "fact": "Velázquez’s ‘Las Meninas’ (1656) is a complex study of perspective and royal life in Spain.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_008.jpg)"
+  },
+  {
+    "personName": "Francisco Goya",
+    "question": "Which painting was created by Francisco Goya?",
+    "imagePath": "assets/images/artists/Francisco_de_Goya.jpg",
+    "options": ["The Third of May 1808", "Water Lilies", "The Dance", "No. 5, 1948"],
+    "correctIndex": 0,
+    "fact": "*The Third of May 1808* (1814) depicts the horrors of war and the Spanish resistance to Napoleon’s army.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Self-Portrait_-_Google_Art_Project.jpg)"
+  },
+  {
+    "personName": "Mary Cassatt",
+    "question": "Which of these paintings was by Mary Cassatt?",
+    "imagePath": "assets/images/artists/Mary_Cassatt.jpg",
+    "options": ["The Child’s Bath", "Girl with a Pearl Earring", "The Swing", "Sunflowers"],
+    "correctIndex": 1,
+    "fact": "Cassatt was an American Impressionist known for depicting intimate mother and child scenes like *The Child’s Bath* (1893).",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_Self-portrait_-_Google_Art_Project.jpg)"
+  },
+  {
+    "personName": "Salvador Dalí",
+    "question": "Which surrealist painting is by Salvador Dalí?",
+    "imagePath": "assets/images/artists/Salvador_Dalí.jpg",
+    "options": [ "Water Lilies","The Persistence of Memory", "The Two Fridas", "Composition VII"],
+    "correctIndex": 1,
+    "fact": "Dalí’s *The Persistence of Memory* (1931) features melting clocks and symbolizes the fluidity of time and reality.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_1939.jpg)"
+  },
+  {
+    "personName": "Andy Warhol",
+    "question": "Which iconic series was created by Andy Warhol?",
+    "imagePath": "assets/images/artists/Andy_Warhol.jpg",
+    "options": ["Water Lilies","Campbell’s Soup Cans", "Guernica", "The Scream"],
+    "correctIndex": 1,
+    "fact": "Warhol’s *Campbell’s Soup Cans* (1962) challenged the idea of fine art and celebrity culture.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Andy_Warhol_1975.jpg)"
+  },
+  {
+    "personName": "Jean-Michel Basquiat",
+    "question": "What was Jean-Michel Basquiat’s art style known for?",
+    "imagePath": "assets/images/artists/Jean_Michel_Basquiat.jpg",
+    "options": ["Cubism", "Graffiti-inspired Neo-Expressionism","Minimalism", "Rococo"],
+    "correctIndex": 1,
+    "fact": "Basquiat merged street art and fine art in the 1980s, expressing themes of identity and social struggle.",
+    "licenseInfo": "Fair use image – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jean-Michel_Basquiat_1982_by_Wulf_Ramberg.jpg)"
+  }
+]

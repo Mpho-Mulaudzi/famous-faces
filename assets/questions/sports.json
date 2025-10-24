@@ -1,0 +1,324 @@
+[
+  {
+    "personName": "Muhammad Ali",
+    "question": "What sport did Muhammad Ali dominate?",
+    "imagePath": "assets/images/sports/Muhammad_Ali.jpg",
+    "options": ["Wrestling", "Boxing","Basketball", "Track and Field"],
+    "correctIndex": 1,
+    "fact": "Ali, known as ‘The Greatest,’ won the world heavyweight boxing title three times and was famous for his charisma and activism.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Muhammad_Ali_1966.jpg)"
+  },
+  {
+    "personName": "Pelé",
+    "question": "Which country did Pelé represent in international football?",
+    "imagePath": "assets/images/sports/Pele.jpg",
+    "options": ["Argentina", "Brazil", "Portugal", "Spain"],
+    "correctIndex": 1,
+    "fact": "Pelé won three FIFA World Cups (1958, 1962, 1970) and scored over 1,000 career goals, making him one of football’s greatest icons.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pele_1960.jpg)"
+  },
+  {
+    "personName": "Serena Williams",
+    "question": "How many Grand Slam singles titles did Serena Williams win?",
+    "imagePath": "assets/images/sports/Serena_Williams.jpg",
+    "options": ["12", "23", "18", "28"],
+    "correctIndex": 1,
+    "fact": "Serena Williams won 23 Grand Slam singles titles, the most by any player in the Open Era, redefining power tennis.",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Serena_Williams_at_2013_US_Open.jpg)"
+  },
+  {
+    "personName": "Michael Jordan",
+    "question": "Which sport did Michael Jordan play professionally?",
+    "imagePath": "assets/images/sports/Michael_Jordan.jpg",
+    "options": ["Baseball", "Basketball", "American Football", "Soccer"],
+    "correctIndex": 1,
+    "fact": "Jordan led the Chicago Bulls to six NBA championships and became a global icon of basketball and excellence.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_1992.jpg)"
+  },
+  {
+    "personName": "Usain Bolt",
+    "question": "In which event is Usain Bolt a world record holder?",
+    "imagePath": "assets/images/sports/Usain_Bolt.png",
+    "options": [ "Long jump", "400 m relay", "Marathon","100 m and 200 m sprints"],
+    "correctIndex": 3,
+    "fact": "Bolt, the Jamaican sprinter, holds world records in the 100 m (9.58 s) and 200 m (19.19 s), earning the nickname ‘Lightning Bolt.’",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Usain_Bolt_Rio_100m_final_2016.jpg)"
+  },
+  {
+    "personName": "Jackie Robinson",
+    "question": "What barrier did Jackie Robinson break in Major League Baseball?",
+    "imagePath": "assets/images/sports/Jackie_Robinson.jpg",
+    "options": ["First Black player in MLB", "Most home runs", "Youngest MVP", "First manager"],
+    "correctIndex": 0,
+    "fact": "In 1947, Jackie Robinson became the first African-American to play in Major League Baseball, breaking racial barriers in sports.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jackie_Robinson_1950.jpg)"
+  },
+  {
+    "personName": "Tiger Woods",
+    "question": "Which sport is Tiger Woods famous for?",
+    "imagePath": "assets/images/sports/Tiger_Woods.jpg",
+    "options": ["Tennis", "Baseball","Golf","Basketball"],
+    "correctIndex": 2,
+    "fact": "Tiger Woods is one of the most successful golfers in history, with 15 major championship wins and a lasting impact on the sport’s popularity.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tiger_Woods_in_2009.jpg)"
+  },
+  {
+    "personName": "Simone Biles",
+    "question": "What sport is Simone Biles known for?",
+    "imagePath": "assets/images/sports/Simone_Biles.jpg",
+    "options": ["Gymnastics", "Diving", "Track and Field", "Figure Skating"],
+    "correctIndex": 0,
+    "fact": "Biles is the most decorated gymnast in history with 30+ Olympic and World Championship medals, known for her power and difficulty.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Simone_Biles_2016.jpg)"
+  },
+  {
+    "personName": "Diego Maradona",
+    "question": "Which famous goal is Diego Maradona known for in the 1986 World Cup?",
+    "imagePath": "assets/images/sports/Maradona.jpg",
+    "options": ["Golden Goal","Hand of God", "Bicycle Kick", "Header of Glory"],
+    "correctIndex": 1,
+    "fact": "Maradona’s ‘Hand of God’ and ‘Goal of the Century’ in the 1986 World Cup cemented his status as one of football’s greatest talents.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Diego_Maradona_1986.jpg)"
+  },
+  {
+    "personName": "Haile Gebrselassie",
+    "question": "Which country did Haile Gebrselassie represent in long-distance running?",
+    "imagePath": "assets/images/sports/Haile_Gebrselassie.jpg",
+    "options": ["Kenya", "Ethiopia", "Uganda", "Nigeria"],
+    "correctIndex": 1,
+    "fact": "Ethiopian runner Haile Gebrselassie set 27 world records and won two Olympic golds in the 10,000 m, revolutionizing long-distance running.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Haile_Gebrselassie_2012.jpg)"
+  },
+  {
+    "personName": "Michael Phelps",
+    "question": "In which sport did Michael Phelps become the most decorated Olympian of all time?",
+    "imagePath": "assets/images/sports/Michael_Phelps.jpg",
+    "options": ["Rowing", "Triathlon","Swimming", "Diving"],
+    "correctIndex": 2,
+    "fact": "Phelps won 23 Olympic gold medals between 2004 and 2016, making him the most decorated Olympian in history.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_2016.jpg)"
+  },
+  {
+    "personName": "Roger Federer",
+    "question": "Which Grand Slam tournament has Roger Federer won the most titles at?",
+    "imagePath": "assets/images/sports/Roger_Federer.jpg",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open",
+      "French Open"
+    ],
+    "correctIndex": 0,
+    "fact": "Roger Federer has won Wimbledon a record **eight times**, showcasing his mastery on grass courts and calm precision under pressure.",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Roger_Federer_2019_Wimbledon.jpg)"
+  },
+  {
+    "personName": "Lewis Hamilton",
+    "question": "In which year did Lewis Hamilton win his first Formula One World Championship?",
+    "imagePath": "assets/images/sports/Lewis_Hamilton.png",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "correctIndex": 1,
+    "fact": "Lewis Hamilton won his **first Formula One title in 2008** with McLaren, becoming the youngest World Champion at the time.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2021.jpg)"
+  },
+
+  {
+    "personName": "Ronda Rousey",
+    "question": "Ronda Rousey became famous for her achievements in which sport?",
+    "imagePath": "assets/images/sports/Ronda_Rousey.jpg",
+    "options": ["Mixed Martial Arts (MMA)", "Boxing", "Wrestling", "Weightlifting"],
+    "correctIndex": 0,
+    "fact": "Rousey was the first female fighter signed by the UFC and the first women’s bantamweight champion, pioneering women’s MMA.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ronda_Rousey_2015.jpg)"
+  },
+  {
+    "personName": "Tony Hawk",
+    "question": "Which extreme sport is Tony Hawk most famous for?",
+    "imagePath": "assets/images/sports/Tony_Hawk.jpg",
+    "options": [ "Snowboarding","Skateboarding", "Surfing", "BMX"],
+    "correctIndex": 1,
+    "fact": "Tony Hawk is a skateboarding legend known for being the first to land a 900° spin and for popularizing the sport globally.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tony_Hawk_2016.jpg)"
+  },
+
+  {
+    "personName": "Valentina Vezzali",
+    "question": "Valentina Vezzali is a multiple Olympic gold medalist in which sport?",
+    "imagePath": "assets/images/sports/Valentina_Vezzali.jpg",
+    "options": ["Archery", "Shooting","Fencing", "Gymnastics"],
+    "correctIndex": 2,
+    "fact": "Vezzali, from Italy, is one of the most successful fencers ever, with six Olympic gold medals in foil events.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Valentina_Vezzali_2013.jpg)"
+  },
+  {
+    "personName": "Wayne Gretzky",
+    "question": "Wayne Gretzky is considered ‘The Great One’ in which sport?",
+    "imagePath": "assets/images/sports/Wayne_Gretzky.jpg",
+    "options": ["Baseball", "Ice Hockey","Basketball", "Lacrosse"],
+    "correctIndex": 1,
+    "fact": "Wayne Gretzky is the NHL’s all-time leading scorer and one of the greatest athletes in Canadian history.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Wayne_Gretzky_1983.jpg)"
+  },
+  {
+    "personName": "Yuna Kim",
+    "question": "Which Olympic Games did Yuna Kim win her gold medal in figure skating?",
+    "imagePath": "assets/images/sports/Yuna_Kim.jpg",
+    "options": [
+      "Beijing 2008",
+      "Vancouver 2010",
+      "Sochi 2014",
+      "PyeongChang 2018"
+    ],
+    "correctIndex": 1,
+    "fact": "Yuna Kim won **gold at the 2010 Vancouver Olympics**, setting world-record scores and captivating audiences with her grace and precision.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Yuna_Kim_2014.jpg)"
+  },
+  {
+    "personName": "Cristiano Ronaldo",
+    "question": "Cristiano Ronaldo became the all-time top scorer in which major European competition?",
+    "imagePath": "assets/images/sports/Cristiano_Ronaldo2.jpg",
+    "options": [
+      "UEFA Champions League",
+      "Premier League",
+      "La Liga",
+      "Serie A"
+    ],
+    "correctIndex": 0,
+    "fact": "Ronaldo is the all-time leading scorer in the UEFA Champions League, with over 140 goals, showing unmatched consistency in Europe.",
+    "licenseInfo": "CC BY 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2019.jpg)"
+  },
+  {
+    "personName": "Lionel Messi",
+    "question": "Which country did Lionel Messi help win the FIFA World Cup in 2022?",
+    "imagePath": "assets/images/sports/Lionel_Messi.jpg",
+    "options": [
+      "Brazil",
+      "Spain",
+      "Portugal",
+      "Argentina"
+    ],
+    "correctIndex": 3,
+    "fact": "Messi led **Argentina** to victory in the 2022 World Cup, cementing his legacy as one of football’s all-time greats.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lionel_Messi_2022.jpg)"
+  },
+
+  {
+    "personName": "Lionel Messi",
+    "question": "In which year did Lionel Messi win his first Ballon d’Or award?",
+    "imagePath": "assets/images/sports/Lionel_Messi.jpg",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "correctIndex": 2,
+    "fact": "Messi won his first Ballon d’Or in 2009 after an incredible season with Barcelona, beginning his record-breaking run of wins.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lionel_Messi_2009.jpg)"
+  },
+  {
+    "personName": "Zinedine Zidane",
+    "question": "In which World Cup did Zinedine Zidane score twice in the final to help France win?",
+    "imagePath": "assets/images/sports/Zinedine_Zidane.jpg",
+    "options": [
+      "1994 World Cup",
+      "1998 World Cup",
+      "2002 World Cup",
+      "2006 World Cup"
+    ],
+    "correctIndex": 1,
+    "fact": "Zidane scored **two headers in the 1998 World Cup Final**, leading France to its first-ever world title on home soil.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_2010.jpg)"
+  },
+  {
+    "personName": "Didier Drogba",
+    "question": "Which African country did Didier Drogba famously captain in international football?",
+    "imagePath": "assets/images/sports/Didier_Drogba.jpg",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Ivory Coast",
+      "Cameroon"
+    ],
+    "correctIndex": 2,
+    "fact": "Drogba captained the **Ivory Coast national team** and was known for using his influence to help end civil conflict in his country.",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Didier_Drogba_2012.jpg)"
+  },
+  {
+    "personName": "Megan Rapinoe",
+    "question": "Megan Rapinoe won the 2019 FIFA Women’s World Cup with which national team?",
+    "imagePath": "assets/images/sports/Megan_Rapinoe.jpg",
+    "options": [
+      "United States",
+      "Canada",
+      "England",
+      "Germany"
+    ],
+    "correctIndex": 0,
+    "fact": "Rapinoe won the **Golden Boot and Golden Ball** at the 2019 Women’s World Cup, leading the USA to their fourth world title.",
+    "licenseInfo": "CC BY 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Megan_Rapinoe_2019.jpg)"
+  },
+  {
+    "personName": "Mike Tyson",
+    "question": "At what age did Mike Tyson become the youngest heavyweight champion in boxing history?",
+    "imagePath": "assets/images/sports/Mike_Tyson.png",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctIndex": 2,
+    "fact": "Mike Tyson became the **youngest heavyweight champion** at just **20 years old** in 1986 after defeating Trevor Berbick.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mike_Tyson_Portrait.jpg)"
+  },
+  {
+    "personName": "Sugar Ray Robinson",
+    "question": "Sugar Ray Robinson was best known for his dominance in which two weight divisions?",
+    "imagePath": "assets/images/sports/Sugar_Ray_Robinson.jpg",
+    "options": [
+      "Featherweight and Lightweight",
+      "Lightweight and Welterweight",
+      "Welterweight and Middleweight",
+      "Middleweight and Heavyweight"
+    ],
+    "correctIndex": 2,
+    "fact": "Sugar Ray Robinson was considered one of the greatest pound-for-pound fighters ever, dominating the **Welterweight and Middleweight** divisions.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sugarrayrobinson.jpg)"
+  },
+  {
+    "personName": "Joe Frazier",
+    "question": "Joe Frazier is best remembered for his trilogy of fights with which legendary opponent?",
+    "imagePath": "assets/images/sports/Joe_Frazier.jpg",
+    "options": [
+      "George Foreman",
+      "Larry Holmes",
+      "Muhammad Ali",
+      "Sonny Liston"
+    ],
+    "correctIndex": 2,
+    "fact": "Frazier’s fights with **Muhammad Ali**, especially the *‘Fight of the Century’* in 1971, are some of boxing’s greatest moments.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Joe_Frazier_1968b.jpg)"
+  },
+  {
+    "personName": "Floyd Mayweather Jr.",
+    "question": "What record does Floyd Mayweather Jr. hold at the end of his professional boxing career?",
+    "imagePath": "assets/images/sports/Floyd_Mayweather_Jr.jpg",
+    "options": [
+      "49 wins, 1 loss",
+      "50 wins, 0 losses",
+      "48 wins, 2 losses",
+      "45 wins, 5 losses"
+    ],
+    "correctIndex": 1,
+    "fact": "Mayweather retired with an **undefeated record of 50-0**, becoming one of the most successful defensive boxers in history.",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Floyd_Mayweather,_Jr._at_DeWalt_event_(cropped).jpg)"
+  }
+
+
+]

@@ -1,0 +1,556 @@
+
+[
+  {
+    "scientistName": "Galileo Galilei",
+    "question": "What did Galileo Galilei improve that revolutionized astronomy?",
+    "imagePath": "assets/images/scientists/galileo.jpg",
+    "options": [
+      "Microscope",
+      "Telescope",
+      "Thermometer",
+      "Spectrometer"
+    ],
+    "correctIndex": 1,
+    "fact": "Galileo improved the telescope and supported the heliocentric theory, challenging long-held beliefs.",
+    "licenseInfo": "Public Domain – Wikimedia Commons"
+  },
+
+
+
+  {
+    "scientistName": "Marie Curie",
+    "question": "What did Marie Curie discover?",
+    "imagePath": "assets/images/scientists/marie_curie.jpg",
+    "options": [
+      "X‑rays",
+      "Heliocentric Theory",
+      "Radioactivity / Polonium and Radium",
+      "Evolution by Natural Selection"
+    ],
+    "correctIndex": 2,
+    "fact": "Marie Curie was the **first woman to win a Nobel Prize**, the first person and only woman to win the Nobel Prize twice, and the only person to win the Nobel Prize in two different scientific fields.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Marie_Curie_c1920.jpg)"
+
+  },
+  {
+  "scientistName": "Charles Darwin",
+  "question": "What theory is Charles Darwin known for?",
+  "imagePath": "assets/images/scientists/darwin.jpg",
+  "options": [
+    "Relativity",
+    "Atomic Theory",
+    "Germ Theory of Disease",
+    "Theory of Evolution by Natural Selection"
+  ],
+  "correctIndex": 3,
+    "fact": "Darwin’s work, 'On the Origin of Species,' was published in **1859** and is considered the foundation of evolutionary biology.",
+  "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Charles_Darwin_by_Julia_Margaret_Cameron_2.jpg)"
+},
+  {
+    "scientistName": "Isaac Newton",
+    "question": "For what is Isaac Newton most famous?",
+    "imagePath": "assets/images/scientists/newton.jpg",
+    "options": [
+      "Periodic Table",
+      "Laws of Motion and Gravitation",
+      "Discovery of Electricity",
+      "Polio Vaccine"
+    ],
+    "correctIndex": 1,
+    "fact": "Newton is also credited with **inventing calculus**, a new branch of mathematics, independently of Gottfried Leibniz.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg)"
+  },
+  {
+    "personName": "Rosalind Franklin",
+    "question": "Which scientific discovery relied on Rosalind Franklin’s X‑ray photographs?",
+    "imagePath": "assets/images/scientists/franklin.png",
+    "options": [
+      "Quantum entanglement",
+      "Photosynthesis",
+      "DNA double helix",
+      "Electric current"],
+    "correctIndex": 2,
+    "fact": "Franklin’s diffraction images of DNA led to the discovery of its double‑helix structure.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Rosalind_Franklin.jpg)"
+  },
+  {
+    "scientistName": "Nikola Tesla",
+    "question": "What is Nikola Tesla best known for?",
+    "imagePath": "assets/images/scientists/tesla.jpg",
+    "options": [
+      "First Telephone",
+      "Light Bulb",
+      "Alternating Current (AC) Electrical System",
+      "Steam Engine"
+    ],
+    "correctIndex": 2,
+    "fact": "Tesla patented the **AC induction motor** and related polyphase AC system, which is the basis for the modern electric power grid.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:N.Tesla.JPG)"
+  },
+  {
+    "scientistName": "Alan Turing",
+    "question": "Alan Turing made foundational contributions to which field?",
+    "imagePath": "assets/images/scientists/turing.jpg",
+    "options": [
+      "Radioactivity",
+      "Evolution",
+      "Astronomy",
+      "Computer Science and Artificial Intelligence"
+    ],
+    "correctIndex": 3,
+    "fact": "During World War II, Turing was instrumental in designing methods to **break German codes** (like Enigma) at Bletchley Park.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Alan_Turing_Aged_16.jpg)"
+  },
+  {
+    "scientistName": "Granville T. Woods",
+    "question": "Which invention is attributed to Granville T. Woods?",
+    "imagePath": "assets/images/scientists/woods.jpg",
+    "options": [
+      "Multiplex telegraph for railroads",
+      "The telephone",
+      "The light bulb filament",
+      "Automatic transmission"
+    ],
+    "correctIndex": 0,
+    "fact": "Woods, nicknamed “the Black Edison,” invented a system that allowed telegraph signals to be sent between moving trains and stations.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Granville_Woods.jpg)"
+  },
+  {
+    "scientistName": "Johannes Kepler",
+    "question": "For what are Johannes Kepler’s laws famous?",
+    "imagePath": "assets/images/scientists/kepler.jpg",
+    "options": [
+      "Electricity",
+      "Vaccines",
+      "Planetary Motion",
+      "Relativity"
+    ],
+    "correctIndex": 2,
+    "fact": "Kepler's laws describe how planets orbit the Sun. He showed that their orbits are **ellipses**, not perfect circles as previously believed.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Johannes_Kepler_1610.jpg)"
+  },
+  {
+    "scientistName": "Sigmund Freud",
+    "question": "Which field did Sigmund Freud establish?",
+    "imagePath": "assets/images/scientists/freud.jpg",
+    "options": [
+      "Neurosurgery",
+      "Psychoanalysis",
+      "Cognitive Psychology",
+      "Behaviorism"],
+    "correctIndex": 1,
+    "fact": "Freud founded psychoanalysis, introducing key concepts like the unconscious mind, dream analysis, and childhood development.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Freud_c1910.jpg)"
+  },
+  {
+    "scientistName": "Katherine Johnson",
+    "question": "What major contribution did Katherine Johnson make to space exploration?",
+    "imagePath": "assets/images/scientists/katherine_johnson.jpg",
+    "options": [
+      "Inventing the microchip",
+      "Calculating flight trajectories for NASA’s Mercury and Apollo missions",
+      "Designing the first telescope",
+      "Creating radar technology"
+    ],
+    "correctIndex": 1,
+    "fact": "Her precise trajectory calculations made NASA’s first crewed space missions and the Apollo 11 moon landing possible.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Katherine_Johnson_1983.jpg)"
+  },
+  {
+    "scientistName": "Albert Einstein",
+    "question": "Which revolutionary theory did Albert Einstein develop?",
+    "imagePath": "assets/images/scientists/einstein.jpg",
+    "options": [
+      "Quantum Chromodynamics",
+      "Periodic Table",
+      "Big Bang Theory",
+      "Theory of Relativity"
+    ],
+    "correctIndex": 3,
+    "fact": "Einstein’s special and general theories of relativity transformed our understanding of space, time and gravity.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg)"
+  },
+  {
+    "scientistName": "Ada Lovelace",
+    "question": "Why is Ada Lovelace regarded as the first computer programmer?",
+    "imagePath": "assets/images/scientists/ada_lovelace.jpg",
+    "options": [
+      "Invented telegraph",
+      "She wrote algorithms for Charles Babbage’s Analytical Engine",
+      "Discovered radioactivity",
+      "Developed DNA model"
+    ],
+    "correctIndex": 1,
+    "fact": "The programming language **Ada** was named in her honor by the U.S. Department of Defense in the 1980s.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)"
+  },
+
+  {
+    "scientistName": "Ada Lovelace",
+    "question": "What is Ada Lovelace known for?",
+    "imagePath": "assets/images/scientists/ada_lovelace.jpg",
+    "options": [
+      "First computer programmer",
+      "Inventor of the telephone",
+      "Discovered DNA",
+      "Developed calculus"
+    ],
+    "correctIndex": 0,
+    "fact": "Ada Lovelace is credited as the first computer programmer for her work on Charles Babbage's Analytical Engine.",
+    "licenseInfo": "Public Domain – Wikimedia Commons"
+  },
+
+  {
+    "scientistName": "Leonardo da Vinci",
+    "question": "Leonardo da Vinci was famous for being a:",
+    "imagePath": "assets/images/scientists/vince.jpg",
+    "options": [
+      "Painter, engineer, and scientist",
+      "Mathematician only",
+      "Astronomer only",
+      "Physicist only"
+    ],
+    "correctIndex": 0,
+    "fact": "Leonardo da Vinci was a true Renaissance polymath, making contributions to art, anatomy, and engineering.",
+    "licenseInfo": "Public Domain – Wikimedia Commons"
+  },
+  {
+    "scientistName": "James Clerk Maxwell",
+    "question": "Which area of science did James Clerk Maxwell unify?",
+    "imagePath": "assets/images/scientists/maxwell.jpg",
+    "options": ["Electricity and Magnetism", "Quantum Mechanics", "Thermodynamics", "Fluid Dynamics"],
+    "correctIndex": 0,
+    "fact": "Maxwell’s equations unified electricity, magnetism, and light into a single electromagnetic theory.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:James_Clerk_Maxwell.jpg)"
+  },
+  {
+    "scientistName": "George Washington Carver",
+    "question": "What innovation or research is George Washington Carver most famous for?",
+    "imagePath": "assets/images/scientists/carver.jpg",
+    "options": [
+      "Inventing the cotton gin",
+      "Designing the first blood bank",
+      "Discovered the structure of DNA",
+      "Developing crop rotation and peanut‑based products"
+    ],
+    "correctIndex": 3,
+    "fact": "Carver revolutionized Southern agriculture by promoting crop rotation and discovering hundreds of uses for peanuts and sweet potatoes.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:George_Washington_Carver_1942.jpg)"
+  },
+  {
+    "scientistName": "Leonhard Euler",
+    "question": "Leonhard Euler laid foundations in which area of mathematics?",
+    "imagePath": "assets/images/scientists/euler.jpg",
+    "options": [
+      "Quantum Physics",
+      "Botany",
+      "Calculus and Graph Theory",
+      "Anatomy"],
+    "correctIndex": 2,
+    "fact": "Euler made seminal contributions to calculus, graph theory, topology, and mechanics; ‘e,’ ‘π,’ and ‘i’ notation come from him.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Leonhard_Euler_2.jpg)"
+  },
+  {
+    "scientistName": "Galileo Galilei",
+    "question": "For which scientific field is Galileo considered a founder?",
+    "imagePath": "assets/images/scientists/galileo.jpg",
+    "options": ["Experimental Physics and Astronomy", "Chemistry", "Neuroscience", "Geology"],
+    "correctIndex": 0,
+    "fact": "Galileo’s telescopic observations and experiments founded modern experimental physics and astronomy.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Galileo_Galilei_2.jpg)"
+  },
+  {
+    "scientistName": "Dr. Charles Drew",
+    "question": "Which medical advancement is Dr Charles Drew best known for?",
+    "imagePath": "assets/images/scientists/drew.jpg",
+    "options": [
+      "Inventing insulin",
+      "Developing large‑scale blood banking and plasma storage",
+      "Developing the pacemaker",
+      "Discovering penicillin"
+    ],
+    "correctIndex": 1,
+    "fact": "Dr Drew’s pioneering work in blood storage led to the first large‑scale blood banks used during World War II.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Charles_Drew_HS_class_photo_1924.jpg)"
+  },
+  {
+    "personName": "Niels Bohr",
+    "question": "What scientific model is Niels Bohr known for developing?",
+    "imagePath": "assets/images/scientists/bohr.jpg",
+    "options": [
+      "Heliocentric model",
+      "DNA double helix",
+      "The quantum model of the atom",
+      "Periodic table"
+    ],
+    "correctIndex": 2,
+    "fact": "Bohr’s quantum model of the atom introduced electron energy levels, transforming atomic physics.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Niels_Bohr_1922.jpg)"
+  },
+
+  {
+    "scientistName": "Elijah McCoy",
+    "question": "Which device did Elijah McCoy invent to improve railway engines?",
+    "imagePath": "assets/images/scientists/McCoy.jpg",
+    "options": [
+      "Air brake system",
+      "Diesel injector pump",
+      "Refrigerated rail car",
+      "Automatic lubricating cup for steam engines"
+    ],
+    "correctIndex": 3,
+    "fact": "McCoy’s invention allowed train engines to be lubricated automatically, improving safety and efficiency—hence the phrase “the real McCoy.”",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Elijah_McCoy.jpg)"
+  },
+  {
+    "scientistName": "Isaac Newton",
+    "question": "Which scientific field is Sir Isaac Newton credited with helping to found?",
+    "imagePath": "assets/images/scientists/newton.jpg",
+    "options": ["Calculus and Classical Physics", "Chemistry", "Genetics", "Quantum Theory"],
+    "correctIndex": 0,
+    "fact": "Isaac Newton developed calculus (independently alongside Leibniz) and formulated the laws of motion and universal gravitation.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Isaac_Newton_portrait.jpg)"
+  },
+  {
+    "scientistName": "Lewis Howard Latimer",
+    "question": "Which contribution is Lewis Howard Latimer credited with in electrical engineering?",
+    "imagePath": "assets/images/scientists/latimer.jpg",
+    "options": [
+      "Inventing alternating current",
+      "Improving the carbon filament for light bulbs",
+      "Creating the electric motor",
+      "Designing the radio"
+    ],
+    "correctIndex": 1,
+    "fact": "Latimer developed a long‑lasting carbon filament used in Edison‑style lightbulbs and helped draft Alexander Graham Bell’s telephone patent.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Lewis_Howard_Latimer_(1848-1928).jpg)"
+  },
+  {
+    "scientistName": "Carl Gauss",
+    "question": "What did Johann Carl Friedrich Gauss help establish?",
+    "imagePath": "assets/images/scientists/gauss.jpg",
+    "options": [
+      "Number Theory and Statistics",
+      "Relativity",
+      "Electrochemistry",
+      "Genetics"],
+    "correctIndex": 0,
+    "fact": "Gauss was called ‘the Prince of Mathematicians’ for his work in number theory, probability, and geometry.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg)"
+  },
+  {
+    "scientistName": "Garrett Morgan",
+    "question": "What everyday safety device did Garrett Morgan invent?",
+    "imagePath": "assets/images/scientists/morgan.jpg",
+    "options": [
+      "Telephone",
+      "Elevator",
+      "Traffic signal",
+      "Radio receiver"
+    ],
+    "correctIndex": 2,
+    "fact": "Garrett Morgan’s patented three‑light traffic signal and gas mask saved countless lives and paved the way for modern road safety.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Garrett_Morgan.jpg)"
+  },
+  {
+    "personName": "René Descartes",
+    "question": "Which field did René Descartes help create?",
+    "imagePath": "assets/images/scientists/descartes.jpg",
+    "options": ["Analytic Geometry", "Quantum Theory", "Evolutionary Biology", "Optics"],
+    "correctIndex": 0,
+    "fact": "Descartes linked algebra and geometry through coordinate systems, laying the foundation for calculus.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_René_Descartes.jpg)"
+  },
+  {
+    "personName": "Santiago Ramón y Cajal",
+    "question": "Which field did Santiago Ramón y Cajal is known as the father of?",
+    "imagePath": "assets/images/scientists/cajal.jpg",
+    "options": [
+      "Father of Genetics",
+      "Father of Neuroscience",
+      "Father of Astronomy",
+      "Father of Thermodynamics"],
+    "correctIndex": 1,
+    "fact": "Cajal’s detailed drawings of neurons and synaptic connections established neuroscience as a distinct field.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Santiago_Ram%C3%B3n_y_Cajal.jpg)"
+  },
+  {
+    "scientistName": "Gregor Mendel",
+    "question": "Gregor Mendel is known as the father of:",
+    "imagePath": "assets/images/scientists/mendel.jpg",
+    "options": [
+      "Astronomy",
+      "Genetics",
+      "Chemistry",
+      "Physics"
+    ],
+    "correctIndex": 1,
+    "fact": "Mendel’s experiments with pea plants established the basic laws of inheritance.",
+    "licenseInfo": "Public Domain – Wikimedia Commons"
+  },
+  {
+    "scientistName": "Dr. Patricia Bath",
+    "question": "Which medical instrument was invented by Dr Patricia Bath?",
+    "imagePath": "assets/images/scientists/Patriciabath.jpg",
+    "options": [
+      "Laserphaco Probe for cataract surgery",
+      "Artificial heart valve",
+      "Insulin pump",
+      "MRI scanner"
+    ],
+    "correctIndex": 0,
+    "fact": "Dr Bath invented the Laserphaco Probe, a device that revolutionized cataract treatment and restored sight to thousands.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patricia_Bath_2011.jpg)"
+  },
+  {
+    "scientistName":"Louis Pasteur",
+    "question":"Louis Pasteur is famous for which discovery?",
+    "imagePath":"assets/images/scientists/pastuer.jpg",
+    "options":["Law of Gravity","Evolution","Germ theory","Relativity"],
+    "correctIndex":2,
+    "fact":"Pasteur developed the germ theory of disease and invented pasteurization.",
+    "licenseInfo":"Public Domain – Wikimedia Commons"},
+
+  {"scientistName":"Marie Tharp",
+    "question":"Marie Tharp is known for mapping:",
+    "imagePath":"assets/images/scientists/Marie_Tharp.jpg",
+    "options":["DNA","The ocean floor","The stars","Atoms"],
+    "correctIndex":1,
+    "fact":"Marie Tharp created the first scientific map of the ocean floor.",
+    "licenseInfo":"Public Domain – Wikimedia Commons"},
+  {
+    "scientistName":"Neil deGrasse Tyson",
+    "question":"Neil deGrasse Tyson is a renowned:",
+    "imagePath":"assets/images/scientists/Neil_deGrasse_Tyson.jpg",
+    "options":["Astrophysicist","Chemist","Biologist","Geologist"],
+    "correctIndex":0,"fact":"Neil deGrasse Tyson is an astrophysicist and science communicator known for popularizing science.",
+    "licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Jane Goodall",
+    "question":"Jane Goodall is famous for studying:",
+    "imagePath":"assets/images/scientists/Jane_Goodall.jpg",
+    "options":["Quantum Mechanics","Plant genetics","Astronomy","Chimpanzee behavior"],
+    "correctIndex":3,
+    "fact":"Jane Goodall is a primatologist known for her long-term study of chimpanzees in Tanzania.","licenseInfo":"Public Domain – Wikimedia Commons"},
+  {
+    "scientistName":"Stephen Hawking",
+    "question":"Stephen Hawking is known for his work on:",
+    "imagePath":"assets/images/scientists/Stephen_Hawking.jpg",
+    "options":["Black holes and cosmology","Genetics","Microbiology","Botany"],
+    "correctIndex":0,
+    "fact":"Stephen Hawking made groundbreaking contributions to theoretical physics, especially in black hole mechanics.","licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Richard Feynman",
+    "question":"Richard Feynman is known for his contributions to:",
+    "imagePath":"assets/images/scientists/Richard_Feynman.jpg",
+    "options":["Quantum mechanics","Evolution","Thermodynamics","Astronomy"],
+    "correctIndex":0,"fact":"Richard Feynman developed the path integral formulation of quantum mechanics and contributed to particle physics.",
+    "licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Barbara McClintock",
+    "question":"Barbara McClintock discovered:",
+    "imagePath":"assets/images/scientists/Barbara_McClintock.jpg",
+    "options":["DNA double helix","Transposons (jumping genes)","Radioactivity","Gravity"],
+    "correctIndex":1,"fact":"McClintock discovered 'jumping genes,' showing that genes can move within the genome.","licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Carl Sagan","question":"Carl Sagan is famous for:",
+    "imagePath":"assets/images/scientists/Carl_Sagan.jpg",
+    "options":["Popularizing science and astronomy","Genetics research","Cell biology","Nuclear physics"],
+    "correctIndex":0,"fact":"Carl Sagan popularized science through books and the TV series 'Cosmos.'",
+    "licenseInfo":"Public Domain – Wikimedia Commons"},
+
+
+    {"scientistName":"Dmitri Mendeleev","question":"Dmitri Mendeleev is famous for:",
+      "imagePath":"assets/images/scientists/Dmitri_Mendeleev.jpg",
+      "options":["Law of Gravitation","Creating the Periodic Table","Evolution Theory","Relativity"],"correctIndex":1,
+      "fact":"Mendeleev created the first widely recognized periodic table of elements.",
+      "licenseInfo":"Public Domain – Wikimedia Commons"},
+    {"scientistName":"James Clerk Maxwell","question":"James Clerk Maxwell is known for:",
+      "imagePath":"assets/images/scientists/James-clerk-maxwell.jpg",
+      "options":["Theory of Relativity","DNA structure","Electromagnetism equations","Periodic Table"],
+      "correctIndex":2,"fact":"Maxwell formulated the classical theory of electromagnetic radiation.","licenseInfo":"Public Domain – Wikimedia Commons"},
+    {"scientistName":"Niels Bohr","question":"Niels Bohr contributed to:","imagePath":"assets/images/scientists/bohr.jpg","options":["Atomic structure and quantum theory","Laws of Motion","Evolution","Black holes"],"correctIndex":0,"fact":"Bohr developed the Bohr model of the atom and made foundational contributions to quantum mechanics.","licenseInfo":"Public Domain – Wikimedia Commons"},
+    {"scientistName":"Max Planck","question":"Max Planck is known as the father of:",
+      "imagePath":"assets/images/scientists/Max_Planck.jpg",
+      "options":["Thermodynamics","Relativity","Evolution","Quantum theory"],
+      "correctIndex":3,
+      "fact":"Planck originated quantum theory, which revolutionized our understanding of atomic and subatomic processes.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {"scientistName":"Richard Dawkins",
+      "question":"Richard Dawkins is known for:",
+      "imagePath":"assets/images/scientists/Richard_Dawkins.jpg",
+      "options":["Quantum mechanics","Relativity","Popularizing evolutionary biology","Cell biology"],"correctIndex":2,"fact":"Dawkins is an evolutionary biologist and author known for popularizing science and promoting atheism.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {"scientistName":"Rachel Carson",
+      "question":"Rachel Carson is famous for:",
+      "imagePath":"assets/images/scientists/Rachel_Carson.jpg",
+      "options":["Environmental science and ecology","DNA discovery","Black holes","Cell biology"],
+      "correctIndex":0,"fact":"Carson’s book 'Silent Spring' advanced the global environmental movement.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {"scientistName":"Thomas Edison",
+      "question":"Thomas Edison is famous for:",
+      "imagePath":"assets/images/scientists/Thomas_Edison.jpg",
+      "options":["Inventing the electric light bulb","DNA discovery",
+        "Theory of Evolution","Black holes"],"correctIndex":0,"fact":"Edison held over 1,000 patents and developed the first commercially practical electric light bulb.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {"scientistName":"Florence Nightingale",
+      "question":"Florence Nightingale is known for:",
+      "imagePath":"assets/images/scientists/Florence_Nightingale.jpg",
+      "options":["Quantum theory", "Founding modern nursing","Atomic theory","Relativity"],"correctIndex":1,"fact":"Nightingale established modern professional nursing standards and improved hospital sanitation.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {"scientistName":"Louis Agassiz",
+      "question":"Louis Agassiz is famous for:",
+      "imagePath":"assets/images/scientists/Agassiz.png",
+      "options":["Glaciology and natural history","Black holes","Evolutionary biology","Thermodynamics"],"correctIndex":0,"fact":"Agassiz made significant contributions to the study of glaciers and natural history.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {"scientistName":"Edward Jenner",
+      "question":"Edward Jenner is known for:",
+      "imagePath":"assets/images/scientists/Jenner.jpg",
+      "options":[
+        "Electromagnetism","Developing the smallpox vaccine",",Theory of relativity","Quantum mechanics"],
+      "correctIndex":1,"fact":"Jenner developed the first successful smallpox vaccine, pioneering immunology.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+
+    {"scientistName":"Antoine Lavoisier",
+      "question":"Antoine Lavoisier is famous for:",
+      "imagePath":"assets/images/scientists/lavoisier.jpg",
+      "options":["Founding modern chemistry","Evolutionary biology",
+        "Black holes","Quantum theory"],"correctIndex":0,
+      "fact":"Lavoisier is known as the father of modern chemistry, establishing the law of conservation of mass.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+
+
+    {"scientistName":"Erwin Schrödinger","question":"Erwin Schrödinger is known for:",
+      "imagePath":"assets/images/scientists/Erwin_Schrödinger.jpg",
+      "options":["Quantum mechanics and wave equation","Evolution","Black holes","Thermodynamics"],
+      "correctIndex":1,"fact":"Schrödinger formulated the Schrödinger equation, a fundamental result in quantum mechanics.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+    {
+      "scientistName":"Werner Heisenberg",
+      "question":"Werner Heisenberg is famous for:",
+      "imagePath":"assets/images/scientists/Werner_Heisenberg.jpg","options":["Evolution","Thermodynamics","Uncertainty principle - quantum mechanics","Relativity"],"correctIndex":2,"fact":"Heisenberg formulated the uncertainty principle, a cornerstone of quantum physics.","licenseInfo":"Public Domain – Wikimedia Commons"},
+    {"scientistName":"J. Robert Oppenheimer","question":"J. Robert Oppenheimer is known as:","imagePath":"assets/images/scientists/Oppenheimer.jpg","options":["The atomic bomb","DNA researcher","Evolution theorist","Cosmologist"],"correctIndex":0,"fact":"Oppenheimer led the Manhattan Project and is often called the father of the atomic bomb.","licenseInfo":"Public Domain – Wikimedia Commons"},
+    {"scientistName":"Philip Emeagwali","question":"Philip Emeagwali is famous for:","imagePath":"assets/images/scientists/Phillip.jpg","options":["Supercomputing contributions","DNA research","Quantum mechanics","Atomic theory"],"correctIndex":0,"fact":"Emeagwali made advances in supercomputing impacting weather modeling and oil exploration.","licenseInfo":"Public Domain – Wikimedia Commons"},
+    {"scientistName":"Mae Jemison","question":"Mae Jemison is known for:","imagePath":"assets/images/scientists/Mae.jpeg","options":["Being the first Black woman in space","Discovering penicillin","Radioactivity research","Theory of Evolution"],"correctIndex":0,"fact":"Mae Jemison became the first Black woman to travel into space aboard the Space Shuttle Endeavour in 1992.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+  {"scientistName":"Daniel Hale Williams","question":"Daniel Hale Williams is famous for:","imagePath":"assets/images/scientists/Daniel_Hale_Williams.jpg","options":["Invention of the light bulb","Quantum mechanics","Germ theory","one of the first open-heart surgeries"],"correctIndex":3,"fact":"Williams performed one of the first successful open-heart surgeries in 1893.","licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Ben Carson","question":"Ben Carson is famous for:","imagePath":"assets/images/scientists/Ben_Carson.jpg","options":["Performing pioneering neurosurgery","Discovery of radioactivity","Theory of relativity","Evolution studies"],"correctIndex":0,"fact":"Carson performed groundbreaking surgeries, including separating conjoined twins successfully.","licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Percy Lavon Julian","question":"Percy Lavon Julian is known for:","imagePath":"assets/images/scientists/Percy_Lavon_Julian.jpg","options":["chemical synthesis of medicinal drugs from plants","Black hole theory","DNA research","Evolution theory"],"correctIndex":0,"fact":"Julian was a chemist who synthesized important medicines such as cortisone and steroids from plant sources.","licenseInfo":"Public Domain – Wikimedia Commons"},
+  {"scientistName":"Ernest Everett Just","question":"Ernest Everett Just is known for:","imagePath":"https://commons.wikimedia.org/wiki/File:Ernest_Everett_Just.jpg","options":["Quantum mechanics","Relativity","fundamental role of the cell surface in the development of organisms.","Atomic theory"],"correctIndex":2,"fact":"Just made important contributions to understanding cell biology, fertilization, and developmental biology.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+
+  {"scientistName":"Kizzmekia Corbett","question":"Kizzmekia Corbett is famous for:","imagePath":"assets/images/scientists/Kizzmekia_Corbett.png","options":["Developing the Moderna COVID-19 vaccine","DNA discovery","Quantum mechanics","Atomic theory"],"correctIndex":0,"fact":"Corbett is an immunologist who helped design the Moderna COVID-19 vaccine.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+
+  {
+    "scientistName":"George Alcorn",
+    "question":"George Alcorn is famous for:",
+    "imagePath":"assets/images/scientists/George_Alcorn.jpg",
+    "options":["DNA research","Invention of the X-ray spectrometer","Quantum theory","Evolution studies"],
+    "correctIndex":1,"fact":"Alcorn invented the X-ray spectrometer used for analyzing chemical composition of materials.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+
+  {"scientistName":"Charles Drew","question":"Charles Drew is known for:","imagePath":"https://commons.wikimedia.org/wiki/File:Charles_Drew.jpg","options":["Blood banking and plasma preservation","DNA research","Quantum theory","Evolution studies"],"correctIndex":0,"fact":"Drew developed improved techniques for blood storage and organized large-scale blood banks.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+  {"scientistName":"Wangari Maathai","question":"Wangari Maathai is famous for:","imagePath":"https://commons.wikimedia.org/wiki/File:Wangari_Maathai.jpg","options":["Environmental activism and the Green Belt Movement","DNA research","Quantum mechanics","Atomic theory"],"correctIndex":0,"fact":"Maathai founded the Green Belt Movement and won the Nobel Peace Prize.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+  {"scientistName":"Ahmad Zewail","question":"Ahmed Zewail is known for:","imagePath":"https://commons.wikimedia.org/wiki/File:Ahmed_Zewail.jpg","options":["Femtochemistry and Nobel Prize in Chemistry","DNA sequencing","Quantum mechanics","Atomic theory"],"correctIndex":0,"fact":"Zewail won the Nobel Prize for his work on femtochemistry, studying chemical reactions at the femtosecond scale.","licenseInfo":"Public Domain – Wikimedia Commons"},
+
+  {"scientistName":"Neil deGrasse Tyson","question":"Neil deGrasse Tyson is a renowned:","imagePath":"https://commons.wikimedia.org/wiki/File:Neil_deGrasse_Tyson_2015.jpg","options":["Astrophysicist","Chemist","Biologist","Geologist"],"correctIndex":0,"fact":"Neil deGrasse Tyson is an astrophysicist and science communicator.","licenseInfo":"Public Domain – Wikimedia Commons"}
+]

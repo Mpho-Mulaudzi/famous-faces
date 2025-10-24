@@ -1,0 +1,540 @@
+[
+  {
+    "personName": "Abraham Lincoln",
+    "question": "Which historic action is associated with Abraham Lincoln?",
+    "imagePath": "assets/images/politicians/Abraham_lincoln.jpg",
+    "options": [
+      "New Deal",
+      "Emancipation Proclamation",
+      "Marshall Plan",
+      "Civil Rights Act of 1964"
+    ],
+    "correctIndex": 1,
+    "fact": "Lincoln issued the Emancipation Proclamation in 1863, beginning the process of abolishing slavery in the U.S.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg)"
+  },
+  {
+    "personName": "Winston Churchill",
+    "question": "What is Winston Churchill best known for?",
+    "imagePath": "assets/images/politicians/Winston_S_Churchill.jpg",
+    "options": [
+      "Leading Britain in WWII",
+      "Founding the EU",
+      "Writing The Communist Manifesto",
+      "Launching the Apollo Program"
+    ],
+    "correctIndex": 0,
+    "fact": "Churchill’s leadership and speeches inspired Britain during World War II.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sir_Winston_S_Churchill.jpg)"
+  },
+  {
+    "personName": "Mahatma Gandhi",
+    "question": "Which movement did Mahatma Gandhi lead?",
+    "imagePath": "assets/images/politicians/Mahatma-Gandhi.jpg",
+    "options": [
+      "Industrial Revolution",
+      "Civil Disobedience",
+      "French Revolution",
+      "Green Revolution"
+    ],
+    "correctIndex": 1,
+    "fact": "Gandhi’s nonviolent Civil Disobedience movement helped India gain independence from Britain in 1947.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Portrait_Gandhi.jpg)"
+  },
+  {
+    "personName": "Nelson Mandela",
+    "question": "Which event did Nelson Mandela play a key role in?",
+    "imagePath": "assets/images/politicians/Mandela.jpg",
+    "options": [
+      "Cuban Revolution",
+      "American Civil War",
+      "End of Apartheid in South Africa",
+      "Unification of Germany"
+    ],
+    "correctIndex": 2,
+    "fact": "Mandela spent 27 years in prison and became South Africa’s first Black president in 1994.",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Nelson_Mandela-2008_%28edit%29.jpg)"
+  },
+  {
+    "personName": "Margaret Thatcher",
+    "question": "Which policy is most linked to Margaret Thatcher’s government?",
+    "imagePath": "assets/images/politicians/Margaret_Thatcher.jpg",
+    "options": [
+      "Privatization of state industries",
+      "The New Deal",
+      "Perestroika",
+      "Affordable Care Act"
+    ],
+    "correctIndex": 0,
+    "fact": "Thatcher implemented free-market reforms and privatized many UK industries during her time as Prime Minister (1979–1990).",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_1983.jpg)"
+  },
+  {
+    "personName": "Kwame Nkrumah",
+    "question": "What is Kwame Nkrumah best known for?",
+    "imagePath": "assets/images/politicians/Kwame_Nkrumah.jpg",
+    "options": [
+      "Leading Ghana to independence",
+      "Ending slavery in Africa",
+      "Creating the African Union",
+      "Writing the Pan-African Charter"
+    ],
+    "correctIndex": 0,
+    "fact": "Nkrumah was Ghana’s first Prime Minister and President, and a key figure in Pan-Africanism.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_(cropped).jpg)"
+  },
+  {
+    "personName": "Franklin D. Roosevelt",
+    "question": "Which program did Franklin D. Roosevelt introduce to fight the Great Depression?",
+    "imagePath": "assets/images/politicians/FDR.jpg",
+    "options": [
+      "New Deal",
+      "Great Society",
+      "Fair Deal",
+      "Square Deal"
+    ],
+    "correctIndex": 0,
+    "fact": "FDR’s New Deal policies helped revive the U.S. economy during the Great Depression.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:FDR_in_1933.jpg)"
+  },
+  {
+    "personName": "Jawaharlal Nehru",
+    "question": "What was Jawaharlal Nehru’s role in India’s history?",
+    "imagePath": "assets/images/politicians/Nehru.jpg",
+    "options": [
+      "First President of India",
+      "First Prime Minister of India",
+      "Leader of the Muslim League",
+      "Founder of the East India Company"
+    ],
+    "correctIndex": 1,
+    "fact": "Nehru was India’s first Prime Minister and helped shape the nation’s democratic and secular foundations.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_in_1947.jpg)"
+  },
+  {
+    "personName": "John F. Kennedy",
+    "question": "Which major crisis did John F. Kennedy face during his presidency?",
+    "imagePath": "assets/images/politicians/JFK.jpg",
+    "options": [
+      "Watergate Scandal",
+      "Cuban Missile Crisis",
+      "Iran-Contra Affair",
+      "Great Depression"
+    ],
+    "correctIndex": 1,
+    "fact": "Kennedy successfully negotiated to end the 1962 Cuban Missile Crisis without war with the USSR.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_photo_portrait,_looking_up.jpg)"
+  },
+  {
+    "personName": "Benazir Bhutto",
+    "question": "What was Benazir Bhutto’s historic achievement?",
+    "imagePath": "assets/images/politicians/Benazir_Bhutto.jpg",
+    "options": [
+      "First female President of India",
+      "Leader of the Arab League",
+      "First female Prime Minister of Pakistan",
+      "First UN Secretary-General from Asia"
+    ],
+    "correctIndex": 2,
+    "fact": "Bhutto was the first woman to lead a Muslim-majority country as Prime Minister of Pakistan (1988–1990, 1993–1996).",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Benazir_Bhutto_cropped.jpg)"
+  },
+  {
+    "personName": "Barack Obama",
+    "question": "What was Barack Obama’s historic achievement in U.S. politics?",
+    "imagePath": "assets/images/politicians/Barack_Obama.jpg",
+    "options": [
+      "First President to visit China",
+      "Author of the Constitution",
+      "First President from Texas",
+      "First African-American President of the U.S."
+    ],
+    "correctIndex": 4,
+    "fact": "Obama became the first African-American President of the United States, serving from 2009 to 2017.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg)"
+  },
+    {
+      "personName": "Angela Merkel",
+      "question": "Which country did Angela Merkel lead as Chancellor?",
+      "imagePath": "assets/images/politicians/Angela_Merkel.jpg",
+      "options": [
+        "Austria",
+        "Germany",
+        "Sweden",
+        "Netherlands"
+      ],
+      "correctIndex": 1,
+      "fact": "Merkel served as Chancellor of Germany from 2005 to 2021 and was the first woman to hold the office.",
+      "licenseInfo": "CC BY-SA 3.0 DE – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Angela_Merkel._Tallinn_Digital_Summit.jpg)"
+    },
+    {
+      "personName": "Julius Nyerere",
+      "question": "What role did Julius Nyerere play in Tanzania’s history?",
+      "imagePath": "assets/images/politicians/Julius_Nyerere.jpg",
+      "options": [
+        "Prime Minister of Kenya",
+        "Founder and first President of Tanzania",
+        "Leader of the ANC in South Africa",
+        "President of Nigeria"
+      ],
+      "correctIndex": 1,
+      "fact": "Known as 'Mwalimu' (teacher), Nyerere led Tanzania to independence and promoted African socialism (Ujamaa).",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Julius_Nyerere_(NARA).jpg)"
+    },
+    {
+      "personName": "Justin Trudeau",
+      "question": "What position does Justin Trudeau hold in Canada?",
+      "imagePath": "assets/images/politicians/Justin_Trudeau.jpg",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Governor-General",
+        "Chief Justice"
+      ],
+      "correctIndex": 1,
+      "fact": "Justin Trudeau became Canada’s second-youngest Prime Minister in 2015 and is the son of former PM Pierre Trudeau.",
+      "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Justin_Trudeau_February_2023.jpg)"
+    },
+    {
+      "personName": "Patrice Lumumba",
+      "question": "What was Patrice Lumumba’s role in Congolese history?",
+      "imagePath": "assets/images/politicians/Patrice_Lumumba.jpg",
+      "options": [
+        "First Prime Minister of the Democratic Republic of Congo",
+        "Founder of the African Union",
+        "Leader of the Mau Mau Rebellion",
+        "President of Ghana"
+      ],
+      "correctIndex": 0,
+      "fact": "Lumumba was a leading independence figure and the first Prime Minister of the Democratic Republic of Congo in 1960.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Patrice_Lumumba,_1960.jpg)"
+    },
+    {
+      "personName": "Queen Elizabeth II",
+      "question": "Queen Elizabeth II was the monarch of which country?",
+      "imagePath": "assets/images/politicians/Queen_Elizabeth_II.png",
+      "options": [
+        "United States",
+        "United Kingdom",
+        "Spain",
+        "Netherlands"
+      ],
+      "correctIndex": 1,
+      "fact": "Elizabeth II was the longest-reigning British monarch, serving from 1952 until her death in 2022.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_in_1959.jpg)"
+    },
+    {
+      "personName": "Simon Bolívar",
+      "question": "What is Simon Bolívar best known for?",
+      "imagePath": "assets/images/politicians/Simon_Bolivar.jpg",
+      "options": [
+        "Founding the Mexican Republic",
+        "Liberating much of South America from Spanish rule",
+        "Exploring the Amazon River",
+        "Leading Brazil’s independence"
+      ],
+      "correctIndex": 1,
+      "fact": "Known as 'El Libertador', Bolívar led movements that freed Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spain.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Simon_Bolivar_2.jpg)"
+    },
+    {
+      "personName": "Golda Meir",
+      "question": "Golda Meir was the Prime Minister of which country?",
+      "imagePath": "assets/images/politicians/Golda_Meir.jpg",
+      "options": [
+        "Israel",
+        "Egypt",
+        "Turkey",
+        "Greece"
+      ],
+      "correctIndex": 0,
+      "fact": "Golda Meir was Israel’s first and only female Prime Minister, serving from 1969 to 1974.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Golda_Meir_1973.jpg)"
+    },
+    {
+      "personName": "Haile Selassie",
+      "question": "Haile Selassie was Emperor of which African nation?",
+      "imagePath": "assets/images/politicians/Haile_Selassie.png",
+      "options": [
+
+        "Egypt",
+        "Kenya",
+        "Ethiopia",
+        "Morocco"
+      ],
+      "correctIndex": 2,
+      "fact": "Haile Selassie ruled Ethiopia and was a key figure in African unity and resistance against Italian invasion.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Haile_Selassie_in_full_dress,_1930s.jpg)"
+    },
+    {
+      "personName": "Ellen Johnson Sirleaf",
+      "question": "Ellen Johnson Sirleaf made history as the first elected female head of state in which continent?",
+      "imagePath": "assets/images/politicians/Ellen_Johnson_Sirleaf.jpg",
+      "options": [
+        "Europe",
+        "Asia",
+        "Africa",
+        "South America"
+      ],
+      "correctIndex": 2,
+      "fact": "Sirleaf became Africa’s first elected female head of state when she became President of Liberia in 2006.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ellen_Johnson_Sirleaf_2012.jpg)"
+    },
+    {
+      "personName": "Fidel Castro",
+      "question": "Which revolution did Fidel Castro lead?",
+      "imagePath": "assets/images/politicians/Fidel_Castro.jpg",
+      "options": [
+        "Russian Revolution",
+        "Cuban Revolution",
+        "Mexican Revolution",
+        "Spanish Civil War"
+      ],
+      "correctIndex": 1,
+      "fact": "Castro led the Cuban Revolution in 1959, overthrowing Batista and establishing a socialist state.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Fidel_Castro_1959.jpg)"
+    },
+    {
+      "personName": "Corazon Aquino",
+      "question": "Corazon Aquino became president after leading which revolution?",
+      "imagePath": "assets/images/politicians/Corazon_Aquino.jpg",
+      "options": [
+        "Cuban Revolution",
+        "People Power Revolution",
+        "Velvet Revolution",
+        "Cultural Revolution"
+      ],
+      "correctIndex": 1,
+      "fact": "Aquino became the Philippines’ first female president after the 1986 People Power Revolution.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Corazon_Aquino_1986.jpg)"
+    },
+    {
+      "personName": "Charles de Gaulle",
+      "question": "Charles de Gaulle led which country during and after World War II?",
+      "imagePath": "assets/images/politicians/Charles_de_Gaulle.jpg",
+      "options": [
+        "France",
+        "Belgium",
+        "Switzerland",
+        "Italy"
+      ],
+      "correctIndex": 0,
+      "fact": "De Gaulle led the Free French Forces in WWII and later became President of France (1959–1969).",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Charles_de_Gaulle-1961.jpg)"
+    },
+    {
+      "personName": "Indira Gandhi",
+      "question": "Indira Gandhi was the first female Prime Minister of which country?",
+      "imagePath": "assets/images/politicians/Indira_Gandhi.jpg",
+      "options": [
+        "Pakistan",
+        "India",
+        "Bangladesh",
+        "Sri Lanka"
+      ],
+      "correctIndex": 1,
+      "fact": "Indira Gandhi served as India’s Prime Minister from 1966 to 1977 and again from 1980 until 1984.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Indira_Gandhi_in_1966.jpg)"
+    },
+    {
+      "personName": "Mikhail Gorbachev",
+      "question": "Which Soviet policy did Mikhail Gorbachev introduce?",
+      "imagePath": "assets/images/politicians/Mikhail_Gorbachev.jpg",
+      "options": [
+        "Perestroika and Glasnost",
+        "Iron Curtain",
+        "Cold War Doctrine",
+        "Stalinism"
+      ],
+      "correctIndex": 0,
+      "fact": "Gorbachev’s reforms of Perestroika (restructuring) and Glasnost (openness) led to the end of the Cold War.",
+      "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mikhail_Gorbachev_1987.jpg)"
+    },
+    {
+      "personName": "Jacinda Ardern",
+      "question": "Which country did Jacinda Ardern serve as Prime Minister?",
+      "imagePath": "assets/images/politicians/Jacinda_Ardern.jpg",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Canada",
+        "United Kingdom"
+      ],
+      "correctIndex": 1,
+      "fact": "Jacinda Ardern became one of the world’s youngest female leaders when she took office as New Zealand’s PM in 2017.",
+      "licenseInfo": "CC BY-SA 4.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jacinda_Ardern_2018_(cropped).jpg)"
+    },
+  {
+    "personName": "Wangari Maathai",
+    "question": "What is Wangari Maathai best known for?",
+    "imagePath": "assets/images/politicians/Wangari_Maathai.jpg",
+    "options": [
+      "Leading Kenya’s independence movement",
+      "Founding the Green Belt environmental movement",
+      "Serving as Kenya’s first female president",
+      "Developing a malaria vaccine"
+    ],
+    "correctIndex": 1,
+    "fact": "Wangari Maathai founded the Green Belt Movement, focused on environmental conservation and women’s rights, and won the 2004 Nobel Peace Prize.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Wangari_Maathai_in_2011.jpg)"
+  },
+  {
+    "personName": "Ngozi Okonjo-Iweala",
+    "question": "Which major international organization does Ngozi Okonjo-Iweala lead?",
+    "imagePath": "assets/images/politicians/Ngozi_Okonjo_Iweala.jpg",
+    "options": [
+      "World Bank",
+      "World Trade Organization (WTO)",
+      "African Union",
+      "UNESCO"
+    ],
+    "correctIndex": 1,
+    "fact": "Okonjo-Iweala became the first woman and the first African to serve as Director-General of the World Trade Organization in 2021.",
+    "licenseInfo": "CC BY-SA 4.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ngozi_Okonjo-Iweala_WTO.jpg)"
+  },
+
+  {
+    "personName": "Joyce Banda",
+    "question": "Joyce Banda served as the President of which African nation?",
+    "imagePath": "assets/images/politicians/Joyce_Banda.jpg",
+    "options": [
+      "Zambia",
+      "Malawi",
+      "Tanzania",
+      "Uganda"
+    ],
+    "correctIndex": 1,
+    "fact": "Joyce Banda became Malawi’s first female president in 2012 after the death of President Bingu wa Mutharika.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Joyce_Banda_2013.jpg)"
+  },
+  {
+    "personName": "Mia Mottley",
+    "question": "Mia Mottley is the Prime Minister of which Caribbean nation?",
+    "imagePath": "assets/images/politicians/Mia_Mottley.jpg",
+    "options": [
+      "Barbados",
+      "Jamaica",
+      "Trinidad and Tobago",
+      "Saint Lucia"
+    ],
+    "correctIndex": 0,
+    "fact": "Mia Mottley became Barbados’s first female Prime Minister in 2018 and led the nation’s transition to a republic in 2021.",
+    "licenseInfo": "CC BY-SA 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mia_Mottley_2019.jpg)"
+  },
+  {
+    "personName": "Samia Suluhu Hassan",
+    "question": "Samia Suluhu Hassan is the first female president of which country?",
+    "imagePath": "assets/images/politicians/Samia_Suluhu_Hassan.jpg",
+    "options": [
+      "Kenya",
+      "Uganda",
+      "Tanzania",
+      "Rwanda"
+    ],
+    "correctIndex": 2,
+    "fact": "Hassan became Tanzania’s first female president in 2021, succeeding the late John Magufuli.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Samia_Suluhu_Hassan_2022.jpg)"
+  },
+  {
+    "personName": "Portia Simpson-Miller",
+    "question": "Portia Simpson-Miller made history in which country?",
+    "imagePath": "assets/images/politicians/Portia_Simpson_Miller.jpg",
+    "options": [
+      "Barbados",
+      "Jamaica",
+      "Belize",
+      "Bahamas"
+    ],
+    "correctIndex": 1,
+    "fact": "Simpson-Miller became Jamaica’s first female Prime Minister, serving two terms between 2006 and 2017.",
+    "licenseInfo": "CC BY 2.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Portia_Simpson-Miller_2015.jpg)"
+  },
+  {
+    "personName": "Sylvia Blyden",
+    "question": "Sylvia Blyden is known for her political and activist role in which African country?",
+    "imagePath": "assets/images/politicians/Sylvia_Blyden.jpg",
+    "options": [
+      "Sierra Leone",
+      "Ghana",
+      "Nigeria",
+      "Liberia"
+    ],
+    "correctIndex": 0,
+    "fact": "Dr. Sylvia Blyden is a Sierra Leonean journalist and politician who served as Minister of Social Welfare, Gender and Children’s Affairs.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sylvia_Blyden_2016.jpg)"
+  },
+  {
+    "personName": "Kamala Harris",
+    "question": "What milestone did Kamala Harris achieve in U.S. history?",
+    "imagePath": "assets/images/politicians/Kamala_Harris.jpg",
+    "options": [
+      "First female Secretary of State",
+      "First female Vice President of the United States",
+      "First Black woman elected to Congress",
+      "First woman to run for President"
+    ],
+    "correctIndex": 1,
+    "fact": "Kamala Harris became the first female, first Black, and first South Asian Vice President of the U.S. in 2021.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Kamala_Harris_2021.jpg)"
+  },
+  {
+    "personName": "Sirimavo Bandaranaike",
+    "question": "Sirimavo Bandaranaike was the first woman in the world to hold which position?",
+    "imagePath": "assets/images/politicians/Sirimavo_Bandaranaike.jpg",
+    "options": [
+      "President",
+      "Foreign Minister",
+      "UN Secretary-General",
+      "Prime Minister"
+    ],
+    "correctIndex": 3,
+    "fact": "Bandaranaike of Sri Lanka became the world’s first female Prime Minister in 1960.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sirimavo_Bandaranaike_1960s.jpg)"
+  },
+  {
+    "personName": "Oliver Tambo",
+    "question": "What role did Oliver Tambo play in South Africa's liberation struggle?",
+    "imagePath": "assets/images/politicians/Oliver_Tambo.jpg",
+    "options": [
+      "He was South Africa's first president",
+      "He led the African National Congress (ANC) in exile",
+      "He founded the Pan Africanist Congress",
+      "He was a military commander in Umkhonto we Sizwe"
+    ],
+    "correctIndex": 1,
+    "fact": "Oliver Tambo served as President of the ANC in exile, building global support against apartheid and laying the groundwork for South Africa’s eventual democracy.",
+    "licenseInfo": "CC BY-SA 3.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Oliver_Tambo_ANC_Leader.jpg)"
+  },
+  {
+    "personName": "Steve Biko",
+    "question": "What was Steve Biko best known for?",
+    "imagePath": "assets/images/politicians/Steve_Biko.jpg",
+    "options": [
+      "Leading the armed struggle against apartheid",
+      "Founding the Black Consciousness Movement",
+      "Serving as South Africa’s first post-apartheid Deputy President",
+      "Writing South Africa’s Constitution"
+    ],
+    "correctIndex": 1,
+    "fact": "Steve Biko was a leading anti-apartheid activist and founder of the Black Consciousness Movement, which promoted psychological liberation and Black pride.",
+    "licenseInfo": "Public Domain – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Steve_Biko_1977.jpg)"
+  },
+
+  {
+    "personName": "Chris Hani",
+    "question": "Chris Hani was the chief of which anti-apartheid military wing?",
+    "imagePath": "assets/images/politicians/Chris_Hani.jpg",
+    "options": [
+      "Umkhonto we Sizwe",
+      "PAC Liberation Army",
+      "South African Defence Force",
+      "Azanian People’s Liberation Army"
+    ],
+    "correctIndex": 0,
+    "fact": "Chris Hani was the commander of Umkhonto we Sizwe, the armed wing of the ANC, and a major symbol of resistance before his assassination in 1993.",
+    "licenseInfo": "CC BY-SA 4.0 – Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Chris_Hani_1991.jpg)"
+  }
+
+
+
+]

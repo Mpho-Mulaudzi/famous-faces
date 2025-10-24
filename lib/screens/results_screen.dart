@@ -1,4 +1,5 @@
-import 'package:famous_faces/widgets/animated_background.dart';
+import '../widgets/banner_ad.dart';
+import '../services/game_progress_service.dart';
 import 'package:flutter/material.dart';
 import 'home_screen.dart';
 
@@ -10,6 +11,7 @@ class ResultsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final percent = ((score / total) * 100).round();
+    GameProgressService.saveScore(score);
 
     return Scaffold(
       appBar: AppBar(
@@ -33,8 +35,10 @@ class ResultsScreen extends StatelessWidget {
                       foregroundColor: Colors.black),
                   onPressed: () => Navigator.pushReplacement(context,
                       MaterialPageRoute(builder: (_) => const HomeScreen())),
-                  child: const Text("Play Again"))
+                  child: const Text("Play Again")),
+              const BannerAdWidget()
             ],
+
           ),
         ),
       ),

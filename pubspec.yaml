@@ -30,17 +30,28 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   url_launcher: ^6.3.0
   audioplayers: ^6.0.0
-
+  confetti: ^0.7.0
+  google_mobile_ads: ^5.1.0
+  visibility_detector: ^0.4.0+2
+  shared_preferences: ^2.3.3
+  flutter_launcher_icons: ^0.13.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -54,16 +65,20 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
   uses-material-design: true
-
   assets:
-    - lib/data/questions/
     - assets/images/scientists/
+    - assets/images/actors/
+    - assets/images/politicians/
+    - assets/images/artists/
     - assets/sounds/drop.mp3
+    - assets/sounds/theme.mp3
+    - assets/sounds/correct.mp3
+    - assets/sounds/wrong.mp3
+    - assets/questions/scientists.json
+    - assets/questions/actors.json
+    - assets/questions/artists.json
+    - assets/questions/politicians.json
 
 
 
