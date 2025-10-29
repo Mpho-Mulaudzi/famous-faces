@@ -1,4 +1,4 @@
-package com.example.famous_faces;
+package com.famousfaces.quiz;
 
 import io.flutter.embedding.android.FlutterActivity;
 

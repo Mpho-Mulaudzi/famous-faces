@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'services/audio_service.dart';
+import 'services/ad_service.dart';
 import 'screens/splash_screen.dart';
 
 Future<void> main() async  {
@@ -8,8 +9,10 @@ Future<void> main() async  {
 
   // Initialize global AudioManager and play app‑wide background music
   final audio = AudioManager();
+  final ads = AdManager();
   await audio.playBgm(); // Starts looping theme.mp3 quietly
-  await MobileAds.instance.initialize();
+
+  await ads.initialize();
   runApp(const FamousFacesApp());
 }
 

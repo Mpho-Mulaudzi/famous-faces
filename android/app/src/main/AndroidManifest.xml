@@ -8,7 +8,10 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-6722748206860300~1074766377"/>
+            android:value="ca-app-pub-6722748206860300~4894874698"/>
+        <meta-data
+            android:name="com.huawei.hms.client.appid"
+            android:value="appid=105118460"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

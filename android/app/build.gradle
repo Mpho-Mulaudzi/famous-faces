@@ -1,12 +1,19 @@
+import java.util.Properties
+import java.io.FileInputStream
+
 plugins {
     id "com.android.application"
     id "kotlin-android"
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id "dev.flutter.flutter-gradle-plugin"
 }
-
+def keystoreProperties = new Properties()
+def keystoreFile = rootProject.file("key.properties")
+if (keystoreFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystoreFile))
+}
 android {
-    namespace = "com.example.famous_faces"
+    namespace = "com.famousfaces.quiz"
     compileSdk = 35
 //    compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
@@ -23,7 +30,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.famous_faces"
+        applicationId = "com.famousfaces.quiz"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
@@ -31,11 +38,26 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
+    signingConfigs {
+        release {
+            if (keystoreProperties['storeFile']) {
+                keyAlias keystoreProperties['keyAlias']
+                keyPassword keystoreProperties['keyPassword']
+                storeFile file(keystoreProperties['storeFile'])
+                storePassword keystoreProperties['storePassword']
+            }
+        }
+    }
 
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
+            // Use the release signing key instead of debug
+            signingConfig = signingConfigs.release
+            minifyEnabled false
+            shrinkResources false
+        }
+        debug {
+            // Keep default debug signing
             signingConfig = signingConfigs.debug
         }
     }

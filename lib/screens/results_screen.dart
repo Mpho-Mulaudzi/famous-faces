@@ -36,7 +36,7 @@ class ResultsScreen extends StatelessWidget {
                   onPressed: () => Navigator.pushReplacement(context,
                       MaterialPageRoute(builder: (_) => const HomeScreen())),
                   child: const Text("Play Again")),
-              const BannerAdWidget()
+              // const BannerAdWidget()
             ],
 
           ),
